@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="418dee13-0419-4c12-8425-7f3d1352672e" name="localhost" url="http://localhost/WT2018">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\WT2018" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
