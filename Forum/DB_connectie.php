@@ -1,8 +1,8 @@
 <?php
 $hostname = "(local)";
 $dbname = "Forums";
-$username = "sa";
-$pw = "17Maart2001";
+$username = "";
+$pw = "";
 try {
     $dbh = new PDO("sqlsrv:Server=$hostname;Database=$dbname;
                 ConnectionPooling=0", "$username", "$pw");
