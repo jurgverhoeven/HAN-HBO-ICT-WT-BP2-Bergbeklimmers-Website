@@ -57,21 +57,24 @@ function trimInput($data){
     <link rel="stylesheet" type="text/css" href="stijl.css">
 </head>
 <body>
-<form method="post" action="">
+<form method="post" action="#">
     <label for="zoeken">Zoeken: </label>
     <input type="text" name="zoeken" id="zoeken">
     <input type="submit" name="zoek" value="Zoek">
 </form>
-<form method="post" action="">
+<form method="post" action="#">
     <select name="koppen" id="koppen" required>
+        <option value="">leeg</option>
         <?php
         echo $koppen;
         ?>
+
     </select>
     <input type="submit" name="filter" value="Filter">
 </form>
-<form method="post" action="">
+<form method="post" action="#">
     <select name="sorteer" id="sorteer" required>
+        <option value="">leeg</option>
         <option value="naam_alfabet">Naam op alfabet</option>
         <option value="naam_alfabet_andersom">Naam op tegenovergesteld alfabet</option>
         <option value="datum">Naam op datum</option>
