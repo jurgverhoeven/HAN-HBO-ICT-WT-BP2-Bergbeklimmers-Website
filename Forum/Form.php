@@ -7,9 +7,9 @@
         $rubrieken .= '<option value="' . "$row[rubriek]" . '">' . "$row[rubriek]" . "</option>";
     }
 
-    $data = $dbh->query("SELECT DISTINCT kop FROM  posts");
+    $data = $dbh->query("SELECT DISTINCT kopje FROM  posts");
     while ($row = $data->fetch()) {
-        $koppen .= '<option value="' . "$row[kop]" . '">' . "$row[kop]" . "</option>";
+        $koppen .= '<option value="' . "$row[kopje]" . '">' . "$row[kopje]" . "</option>";
     }
 ?>
 

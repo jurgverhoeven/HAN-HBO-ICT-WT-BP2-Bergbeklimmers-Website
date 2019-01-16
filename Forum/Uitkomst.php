@@ -17,18 +17,23 @@ function trimInput($data){
         $kop = trimInput($_POST['nieuw']);
     }
 
-    $sql = "INSERT INTO posts (rubriek, gebruiker, kop, tekst, unixtijd) VALUES (:rubriek, :gebruiker, :kop, :tekst, :unixtijd)";
+    $sql = "INSERT INTO posts (kopje, tekst, bezoeker, rubriek, unixtijd) VALUES (?,?,?,?,?)";
     $query = $dbh->prepare($sql);
-    $query->execute(
-            array(':rubriek'=>$rubrieken, ':gebruiker'=>$gebruiker, ':kop'=>$kop, ':tekst'=>$post, 'unixtijd'=>$unixtijd));
+    $query->execute(array($kop, $post, $gebruiker, $rubrieken, $unixtijd));
 
 
 
     $html = '';
     $data = $dbh->query("SELECT * FROM  posts");
     while ($row = $data->fetch()) {
-        $html .= "<tr><td>$row[gebruiker]</td><td>$row[rubriek]</td><td>$row[kop]</td><td>$row[tekst]</td><td>$row[unixtijd]</td></tr>";
+        $html .= "<tr><td>$row[bezoeker]</td><td>$row[rubriek]</td><td>$row[kopje]</td><td>$row[tekst]</td><td>$row[unixtijd]</td></tr>";
     }
+
+
+
+
+
+
 ?>
 
 

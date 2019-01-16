@@ -1,6 +1,6 @@
 <?php
 $hostname = "(local)";
-$dbname = "Forums";
+$dbname = "themasite";
 $username = "";
 $pw = "";
 try {
