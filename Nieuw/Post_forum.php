@@ -16,8 +16,7 @@ if($post == ''){
     <main>
         <form method="post" action="Post_forum.php">
             <input type="hidden" name="unixtijd" value="<?=time()?>" required>
-            <label for="gebruiker">Gebruiker: </label>
-            <input type="text" name="gebruiker" id="gebruiker" required><br>
+            <input type="hidden" name="gebruiker" value="<?php echo $_SESSION["username"];?>" required><br>
             <label for="rubrieken" >Rubrieken: </label>
             <select name="rubrieken" id="rubrieken" required>
                 <?php

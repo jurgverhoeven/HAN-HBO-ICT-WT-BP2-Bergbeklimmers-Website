@@ -38,7 +38,9 @@ footer{
     width: 100%;
 }
 
-
+main div{
+    margin-bottom: 10px;
+}
 
 
 nav ul{
@@ -56,9 +58,7 @@ main a{
     padding: 20px;
 }
 
-main a:hover{
-    border: 1px solid black;
-}
+
 
 nav ul li:hover{
     background-color: #111;
@@ -94,7 +94,7 @@ nav ul li a{
     nav ul{
         width: 25%;
         position: absolute;
-        height: 100%;
+        height: 100;
         overflow: auto;
     }
     nav ul li{
@@ -169,7 +169,7 @@ nav ul li a{
 .video-wall{
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: center;
     font-size: x-small;
     text-align: center;
     margin: 10px;
@@ -220,18 +220,17 @@ li.dropdown {
     text-decoration: none;
 }
 
-.forumpost div{
-    padding: 5px;
-    border: 1px solid black;
+.video-wall a{
+    width: 25%;
+    color: black;
 }
 
-.forumpost a:hover{
-    border: none;
+.video-wall a p{
+    text-decoration: none;
 }
 
-.video-wall a:hover{
-    border: 1px solid black;
-    border-radius: 10px;
+.video-wall a img{
+    width: 100%;
 }
 
 #active{

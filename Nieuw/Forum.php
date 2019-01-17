@@ -13,7 +13,12 @@ $titel = 'Forum';
                     displayForumOverzicht();
                 ?>
         </table>
-        <a href="Post_forum.php">Schrijf hier uw eigen bijdrage aan deze forums</a>
+        <?php
+            if(!empty($_SESSION["username"])){
+                echo '<a href="Post_forum.php">Schrijf hier uw eigen bijdrage aan deze forums</a>';
+            }
+        ?>
+
     </main>
 <?php
     require_once('Includes/Footer.html');

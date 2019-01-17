@@ -172,11 +172,73 @@ if ($kop == 'new') {
 
 
 
-
+$rubriekenKeuze = '';
 
 
 function tekenVideos(){
+    global $pdo;
+    $html = '';
+    $videoPad = 'youtube.com/embed/';
+    $plaatjePad = 'Images/Video_Thumbnails/';
+    global $zoektekstVideos;
+    global $gekozenRubriek;
+    global $orderVideos;
+    try {
+        $data = $pdo->query("SELECT titel, samenvatting, poster, link, rubriek FROM videos $gekozenRubriek $zoektekstVideos $orderVideos");
+        while ($row = $data->fetch()){
+            $html .= '<a href="'."http://www.$videoPad$row[link]?autoplay=1".'"'.' target="film">
+                        <div>
+                            <h1>'."$row[titel]".'</h1>
+                            <img src="'."$plaatjePad$row[poster]".'"'.' alt="'."$row[titel]".'"'.'>
+                            <p>'."$row[samenvatting]".'</p>
+                        </div>
+                      </a>';
+        }
+        echo $html;
+    } catch (PDOException $e) {
+        echo "Kan de forum niet laden, ".$e->getMessage();
+    }
+}
 
+
+function displayFilterVideos(){
+    global $pdo;
+    global $rubriekenKeuze;
+    $toevoegen = "WHERE rubriek = '";
+    try {
+        $data = $pdo->query("SELECT DISTINCT rubriek FROM  videos");
+        while ($row = $data->fetch()) {
+            $rubriekenKeuze .= '<option value="' . "$toevoegen$row[rubriek]'" . '">' . "$row[rubriek]" . "</option>";
+        }
+    }
+    catch (PDOException $e){
+        echo "Kan de filteropties niet laden, ".$e->getMessage();
+    }
+}
+if(empty($_POST['koppen'])){
+    $gekozenRubriek = '';
+}
+else{
+    $gekozenRubriek = $_POST['koppen'];
+}
+
+$zoektekstVideos = '';
+$orderVideos = '';
+if(empty($_POST['zoeken'])){
+    $zoektekstVideos = '';
+}
+else{
+    $zoektekstVideos = "where samenvatting like '%".trimInput($_POST['zoeken'])."%'";
+}
+
+if(empty($_POST['sorteer'])){
+    $orderVideos = '';
+}
+else if($_POST['sorteer'] == "naam_alfabet"){
+    $orderVideos = "order by titel asc";
+}
+else if($_POST['sorteer'] == "naam_alfabet_andersom"){
+    $orderVideos = "order by titel desc";
 }
 
 ?>
