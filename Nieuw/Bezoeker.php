@@ -1,4 +1,5 @@
 <?php
+$titel = 'Bezoeker';
 require_once('Includes/Header.php');
 ?>
     <main>
@@ -19,5 +20,5 @@ require_once('Includes/Header.php');
             </div>
     </main>
 <?php
-require_once ('Includes/Footer.php');
+require_once('Includes/Footer.html');
 ?>

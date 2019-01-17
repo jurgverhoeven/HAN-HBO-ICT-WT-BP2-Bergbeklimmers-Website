@@ -3,13 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title><?php echo $titel; ?></title>
     <link rel="stylesheet" href="CSS/Style.css">
+    <link rel="shortcut icon" href="Images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="Images/favicon.ico" type="image/x-icon">
 </head>
 <body>
 <header>
     <div>
-        <a href="#"><img src="Images/Logo.png" alt="Berg Logo"></a>
+        <a href="index.php"><img src="Images/Logo.png" alt="Berg Logo"></a>
         <h1>
             Bergbeklimmers
         </h1>
@@ -39,9 +41,11 @@
         <li class="dropdown">
             <a href="Forum.php">Forum</a>
             <div class="dropdown-menu">
-                <a href="Forum1.php">Bergbeklimmer Mount Everest overleden</a>
-                <a href="Forum2.php">Nederlanders redden zich met SOS in sneeuw</a>
-                <a href="Forum3.php">Backpack keuze</a>
+                <a href="Bergen.php">Rubriek Bergen</a>
+                <a href="Reisgenoten.php">Rubriek Reisgenoten</a>
+                <a href="Routes.php">Rubriek Routes</a>
+                <a href="Uitrusting.php">Rubriek Uitrusting</a>
+                <a href="Vermist.php">Rubriek Vermist</a>
             </div>
         </li>
         <li>

@@ -41,7 +41,6 @@
         <label for="nieuw">Nieuw onderwerp: </label>
         <input type="text" name="nieuw" id="nieuw"><br>
         <label for="post">Tekst: </label>
-<!--        <input type="text" name="post"><br>-->
         <textarea id="post" cols="100" rows="20" name="post" required></textarea><br>
         <input type="submit" name="verzenden" value="Verzenden">
     </form>

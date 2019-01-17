@@ -39,6 +39,8 @@ footer{
 }
 
 
+
+
 nav ul{
     list-style-type: none;
     margin: 0;
@@ -239,4 +241,24 @@ li.dropdown {
 
 #send_button{
     float: inherit;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+table a:hover{
+    border: none;
 }
