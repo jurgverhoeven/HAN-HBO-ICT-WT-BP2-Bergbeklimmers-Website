@@ -12,126 +12,37 @@
     <session id="328246840">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="11" />
-          <entry key="HTML" value="15" />
-          <entry key="Image" value="3" />
-          <entry key="PHP" value="106" />
+          <entry key="CSS" value="16" />
+          <entry key="HTML" value="18" />
+          <entry key="Image" value="4" />
+          <entry key="PHP" value="159" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="243" />
+          <entry key="CSS" value="325" />
           <entry key="HTML" value="31" />
-          <entry key="PHP" value="8245" />
+          <entry key="PHP" value="9276" />
           <entry key="SQL" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Post_forum.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Registreren.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Bezoeker.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="25" column="94" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Video's.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Includes/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="186" column="79" selection-start-line="186" selection-start-column="79" selection-end-line="186" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Bergen.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Forum.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Video.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nieuw/Forum.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,7 +70,17 @@
       <find>main</find>
       <find>main div</find>
       <find>nav</find>
+      <find>.dropd</find>
+      <find>float</find>
+      <find>bezoeker</find>
+      <find>tab</find>
+      <find>koppenkeuze</find>
+      <find>rubrieken</find>
       <find>displa</find>
+      <find>trim</find>
+      <find>gekozen</find>
+      <find>rubriekenKeuze</find>
+      <find>where</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,25 +101,30 @@
         <option value="$PROJECT_DIR$/Nieuw/Includes/Header.html" />
         <option value="$PROJECT_DIR$/Nieuw/Contact.php" />
         <option value="$PROJECT_DIR$/Nieuw/Over_ons.php" />
+        <option value="$PROJECT_DIR$/Forum/Form.php" />
+        <option value="$PROJECT_DIR$/ohgodohfuck/PHP/login.php" />
+        <option value="$PROJECT_DIR$/ohgodohfuck/PHP/registration.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Video's.php" />
+        <option value="$PROJECT_DIR$/Nieuw/logout.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Includes/Header.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Bezoeker.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Registreren.php" />
+        <option value="$PROJECT_DIR$/Nieuw/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/Nieuw/Forum.php" />
+        <option value="$PROJECT_DIR$/Nieuw/index.php" />
         <option value="$PROJECT_DIR$/Nieuw/Bergen.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Forum.php" />
         <option value="$PROJECT_DIR$/Nieuw/Reisgenoten.php" />
         <option value="$PROJECT_DIR$/Nieuw/Routes.php" />
         <option value="$PROJECT_DIR$/Nieuw/Uitrusting.php" />
         <option value="$PROJECT_DIR$/Nieuw/Vermist.php" />
-        <option value="$PROJECT_DIR$/Forum/Form.php" />
-        <option value="$PROJECT_DIR$/ohgodohfuck/PHP/login.php" />
-        <option value="$PROJECT_DIR$/ohgodohfuck/PHP/registration.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Forum.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Includes/Header.php" />
-        <option value="$PROJECT_DIR$/Nieuw/index.php" />
-        <option value="$PROJECT_DIR$/Nieuw/CSS/Style.css" />
-        <option value="$PROJECT_DIR$/Nieuw/Includes/functions.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Video.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Video's.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Forum.php" />
         <option value="$PROJECT_DIR$/Nieuw/Post_forum.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Registreren.php" />
-        <option value="$PROJECT_DIR$/Nieuw/Bezoeker.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Videos.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Video.php" />
+        <option value="$PROJECT_DIR$/Nieuw/Includes/functions.php" />
+        <option value="$PROJECT_DIR$/Bergbeklimmers/Website/Bezoeker.php" />
+        <option value="$PROJECT_DIR$/Bergbeklimmers/Website/Includes/functions.php" />
+        <option value="$PROJECT_DIR$/Bergbeklimmers/Website/Registreren.php" />
       </list>
     </option>
   </component>
@@ -212,16 +138,15 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="1460" />
-    <option name="height" value="1751" />
+    <option name="x" value="-12" />
+    <option name="width" value="1461" />
+    <option name="height" value="1752" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,53 +154,16 @@
               <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
               <item name="BP2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="Forum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="Nieuw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="Nieuw" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="Nieuw" type="462c0819:PsiDirectoryNode" />
-              <item name="Includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="ohgodohfuck" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="ohgodohfuck" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BP2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BP2" type="462c0819:PsiDirectoryNode" />
-              <item name="Oude site" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PHP/5_HolyGrail_Layout_PDO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -322,16 +210,20 @@
       <workItem from="1547482578964" duration="59000" />
       <workItem from="1547482639889" duration="2386000" />
       <workItem from="1547539265501" duration="49006000" />
+      <workItem from="1547802820222" duration="10610000" />
+      <workItem from="1548748094552" duration="5494000" />
+      <workItem from="1548768902263" duration="76000" />
+      <workItem from="1548859676361" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71252000" />
+    <option name="totallyTimeSpent" value="87443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1935" height="1175" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13546667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14186667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -346,7 +238,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002667" side_tool="true" weight="0.19769673" />
-      <window_info anchor="bottom" id="File Transfer" order="12" sideWeight="0.49973333" visible="true" weight="0.19769673" />
+      <window_info anchor="bottom" id="File Transfer" order="12" sideWeight="0.49973333" visible="true" weight="0.04318618" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,130 +252,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../PHP/DB_CONNECTIE/Prepared/Connect_TO_DB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" lean-forward="true" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oude site/CSS/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oude site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" selection-start-line="117" selection-end-line="121" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../PHP/5_HolyGrail_Layout_PDO/fill_MovieDB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Images/Video_Thumbnails/The_North_Face.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Images/Video_Thumbnails/11_Year_old_shatters_record.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Images/Video_Thumbnails/El_Capitan_in_Google_Maps.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forum/DB_connectie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oude site/Forum.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forum/stijl.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Over_ons.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Vermist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Uitrusting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Reisgenoten.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forum/ForumPagina.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forum/Form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Nieuw/Over_ons.php" />
+    <entry file="file://$PROJECT_DIR$/Forum/ForumPagina.php" />
+    <entry file="file://$PROJECT_DIR$/Forum/Form.php" />
     <entry file="file://$PROJECT_DIR$/Oude site/Video's.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
@@ -491,124 +262,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/database.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/Forum.html">
+    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/database.php" />
+    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/Forum.html" />
+    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/login_successvol.php" />
+    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/test.php" />
+    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/login.php" />
+    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/registration.php" />
+    <entry file="file://$PROJECT_DIR$/Forum/Uitkomst.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Footer.html" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/logout.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Bezoeker.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Registreren.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Header.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/CSS/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/index.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Bergen.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Reisgenoten.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Routes.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Uitrusting.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Vermist.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Forum.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Forum.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Post_forum.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Videos.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Video.php" />
+    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/functions.php" />
+    <entry file="file://$PROJECT_DIR$/Oude site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/login_successvol.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/test.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="39" selection-start-line="39" selection-end-line="52" selection-end-column="6" />
+        <state relative-caret-position="502">
+          <caret line="93" column="14" lean-forward="true" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ohgodohfuck/PHP/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="55" column="10" lean-forward="true" selection-start-line="44" selection-end-line="55" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forum/Uitkomst.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/CSS/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Forum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Bergen.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="94" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="186" column="79" selection-start-line="186" selection-start-column="79" selection-end-line="186" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Video.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Includes/Zoek_Filter_Sorteer_Forum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Video's.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Post_forum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Registreren.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nieuw/Bezoeker.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Reisgenoten.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Routes.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Uitrusting.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Vermist.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/logout.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Over_ons.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/CSS/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Images/Berg.jpeg" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Bergbeklimmers_BP2.zip/Bergbeklimmers/Website/CSS/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Includes/Footer.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Videos.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Includes/Zoek_Filter_Sorteer_Forum.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Bergen.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Forum.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Post_forum.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Includes/Zoek_Filter_Sorteer_Video.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Includes/functions.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/index.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Includes/Header.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Bezoeker.php" />
+    <entry file="file://$PROJECT_DIR$/Bergbeklimmers/Website/Registreren.php" />
   </component>
 </project>
